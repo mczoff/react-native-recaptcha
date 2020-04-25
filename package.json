@@ -1,14 +1,14 @@
 {
-  "name": "react-native-recaptcha-v3",
-  "version": "0.0.14",
-  "description": "A react native wrapper for Google ReCaptcha V3",
+  "name": "@mczoff/react-native-recaptcha-v3",
+  "version": "0.0.14.1",
+  "description": "A react native wrapper for Google ReCaptcha V3 (with react-native-webview)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/acsant/react-native-recaptcha.git"
+    "url": "git+https://github.com/mczoff/react-native-recaptcha.git"
   },
   "keywords": [
     "react",
