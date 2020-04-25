@@ -123,6 +123,7 @@ export default class ReCaptcha extends Component {
         return (
             <MessageWebView
                 ref={(ref) => { this.webview = ref ;}}
+				originWhitelist={['*']}
                 scalesPageToFit={true}
                 mixedContentMode={'always'}
                 containerStyle={containerStyle}
